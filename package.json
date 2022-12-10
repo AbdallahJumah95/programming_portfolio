@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "lighthouse": "^9.6.8"
-  }
+  },
+  "name": "programming_portfolio",
+  "description": "Abdallah's programming Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahJumah95/programming_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahJumah95/programming_portfolio/issues"
+  },
+  "homepage": "https://github.com/AbdallahJumah95/programming_portfolio#readme"
 }
